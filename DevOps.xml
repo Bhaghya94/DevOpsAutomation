@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "DevOps">
+	<test name = "HomePageTest">
+		<classes>
+			<class name = "com.CRM.TestCase.HomePageTestCase"/>
+		</classes>
+	</test>
+	<test name = "LoginPageTest">
+		<classes>
+			<class name = "com.CRM.TestCase.LoginPageTestCase"/>
+		</classes>
+	</test>
+</suite>

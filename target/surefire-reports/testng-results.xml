@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-21T02:14:54 IST" name="DevOps" finished-at="2026-02-21T02:15:07 IST" duration-ms="13708">
+    <groups>
+    </groups>
+    <test started-at="2026-02-21T02:14:54 IST" name="HomePageTest" finished-at="2026-02-21T02:15:01 IST" duration-ms="7689">
+      <class name="com.CRM.TestCase.HomePageTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.TestCase.HomePageTestCase@d706f19]" started-at="2026-02-21T02:14:54 IST" name="setup" finished-at="2026-02-21T02:15:00 IST" duration-ms="6112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUrl()[pri:1, instance:com.CRM.TestCase.HomePageTestCase@d706f19]" started-at="2026-02-21T02:15:00 IST" name="verifyUrl" finished-at="2026-02-21T02:15:00 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method signature="verifyTitle()[pri:2, instance:com.CRM.TestCase.HomePageTestCase@d706f19]" started-at="2026-02-21T02:15:00 IST" name="verifyTitle" finished-at="2026-02-21T02:15:00 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="verifySignInLink()[pri:3, instance:com.CRM.TestCase.HomePageTestCase@d706f19]" started-at="2026-02-21T02:15:00 IST" name="verifySignInLink" finished-at="2026-02-21T02:15:01 IST" duration-ms="1410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInLink -->
+      </class> <!-- com.CRM.TestCase.HomePageTestCase -->
+    </test> <!-- HomePageTest -->
+    <test started-at="2026-02-21T02:15:01 IST" name="LoginPageTest" finished-at="2026-02-21T02:15:07 IST" duration-ms="5944">
+      <class name="com.CRM.TestCase.LoginPageTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.CRM.TestCase.LoginPageTestCase@1f0f1111]" started-at="2026-02-21T02:15:01 IST" name="setup" finished-at="2026-02-21T02:15:05 IST" duration-ms="3169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.CRM.TestCase.LoginPageTestCase@1f0f1111]" started-at="2026-02-21T02:15:05 IST" name="pageSetUp" finished-at="2026-02-21T02:15:06 IST" duration-ms="1373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="validateLogin()[pri:0, instance:com.CRM.TestCase.LoginPageTestCase@1f0f1111]" started-at="2026-02-21T02:15:06 IST" name="validateLogin" finished-at="2026-02-21T02:15:07 IST" duration-ms="1394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+      </class> <!-- com.CRM.TestCase.LoginPageTestCase -->
+    </test> <!-- LoginPageTest -->
+  </suite> <!-- DevOps -->
+</testng-results>
